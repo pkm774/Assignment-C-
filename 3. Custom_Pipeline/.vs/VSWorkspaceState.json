@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Custom_Pipeline"
   ],
-  "SelectedNode": "\\Custom_Pipeline.sln",
+  "SelectedNode": "\\Custom_Pipeline\\Source.cpp",
   "PreviewInSolutionExplorer": false
 }
