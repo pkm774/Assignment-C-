@@ -1,1 +1,6 @@
-﻿
+﻿  pch.cpp
+  dllmain.cpp
+  Shared_Library.cpp
+  Generating Code...
+     Creating library C:\Users\mprab\Desktop\C++ Assignment\4. Shared_Library\Shared_Library\x64\Debug\Shared_Library.lib and object C:\Users\mprab\Desktop\C++ Assignment\4. Shared_Library\Shared_Library\x64\Debug\Shared_Library.exp
+  Shared_Library.vcxproj -> C:\Users\mprab\Desktop\C++ Assignment\4. Shared_Library\Shared_Library\x64\Debug\Shared_Library.dll
